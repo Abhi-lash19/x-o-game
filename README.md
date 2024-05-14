@@ -4,7 +4,6 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 
 ![Tic Tac Toe Screenshot](https://github.com/Abhi-lash19/x-o-game/assets/114879092/1c3be967-cb3e-4f63-bdf0-269bcc7354c4)
 
-
 ## How to Play
 
 1. Open `index.html` in your web browser.
@@ -20,11 +19,11 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 
 ## Demo
 
-You can play the game live [here](link-to-live-demo).
+You can play the game live [here](https://drive.google.com/file/d/1ES4XW-A1hQZNpEY9YoXNWSQco5XhVtSI/view?usp=sharing).
 
 ## Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-game.git
+git clone https://github.com/Abhi-lash19/x-o-game.git
