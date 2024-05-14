@@ -4,13 +4,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tic Tac Toe</title>
+    <title>Tic Tac Triumph</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <nav>
       <ul>
-        <li>MyTicTacToe.com</li>
+        <li>Ultimate Tic Tac Toe</li>
       </ul>
     </nav>
 
@@ -28,16 +28,30 @@
         <div class="box bb-0 br-0"><span class="boxtext"></span></div>
       </div>
       <div class="gameInfo">
-        <h1>Welcome to Tic Tac MyTicTacToe</h1>
+        <h1>Welcome to Tic Tac Triumph</h1>
         <div>
           <span class="info">Turn for X</span>
           <button id="reset">Reset</button>
+          <button id="settingsButton">Settings</button>
         </div>
         <div class="imgbox">
           <img src="excited.gif" alt="" />
         </div>
       </div>
     </div>
+
+    <!-- Settings Modal -->
+    <div id="settingsModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>Settings</h2>
+        <button id="playMusic">Play Music</button>
+        <button id="stopMusic">Stop Music</button>
+        <button id="themeToggle">Toggle Theme</button>
+      </div>
+    </div>
+
     <script src="script.js"></script>
   </body>
+</html>
 </html>
